@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img className="rotate" src="https://i.ibb.co/7n2CFX5/monica-fetal.jpg" alt="monica-fetal" border="0"/>
         <p>
-          Your stuff will go here. (Update)
+          Your stuff will go here.
         </p>
       </header>
     </div>
